@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "gold.magmanode.com",
+    "port": 31231,
     "version": "",
     "try-creative": false
   },
